@@ -41,7 +41,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 Sales Insights Dashboard (Power BI)
+### 🔹 Supply Chain Insights Dashboard (Power BI)
 📊 Built an interactive Power BI dashboard showing regional sales trends and KPIs.  
 ✅ Cleaned and transformed data using Power Query.  
 ✅ Created DAX measures for profit, revenue, and customer segmentation.  
